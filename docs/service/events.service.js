@@ -20,7 +20,7 @@
         var service = {};
 
         var PAUSE_FOR_A_WHILE_MS = 3000;
-        var NUM_DUMMY_EVENTS = 10;
+        var NUM_DUMMY_EVENTS = 14;
 
 
         var createEvent = function(name, date, postcode){
